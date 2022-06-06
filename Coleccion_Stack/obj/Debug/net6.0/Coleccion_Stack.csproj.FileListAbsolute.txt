@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\bin\Debug\net6.0\Coleccion_Stack.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\bin\Debug\net6.0\Coleccion_Stack.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\bin\Debug\net6.0\Coleccion_Stack.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\bin\Debug\net6.0\Coleccion_Stack.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\bin\Debug\net6.0\Coleccion_Stack.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\refint\Coleccion_Stack.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\Coleccion_Stack.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Coleccion_Stack\obj\Debug\net6.0\ref\Coleccion_Stack.dll

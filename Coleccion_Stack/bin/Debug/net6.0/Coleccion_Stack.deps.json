@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Coleccion_Stack/1.0.0": {
+        "runtime": {
+          "Coleccion_Stack.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coleccion_Stack/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
