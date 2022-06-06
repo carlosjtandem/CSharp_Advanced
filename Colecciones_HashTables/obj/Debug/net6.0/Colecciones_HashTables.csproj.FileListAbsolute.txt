@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\bin\Debug\net6.0\Colecciones_HashTables.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\bin\Debug\net6.0\Colecciones_HashTables.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\bin\Debug\net6.0\Colecciones_HashTables.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\bin\Debug\net6.0\Colecciones_HashTables.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\bin\Debug\net6.0\Colecciones_HashTables.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\refint\Colecciones_HashTables.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\Colecciones_HashTables.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_HashTables\obj\Debug\net6.0\ref\Colecciones_HashTables.dll

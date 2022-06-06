@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAvanzado", "CSharpAva
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_BitArray", "Colecciones_BitArray\Colecciones_BitArray.csproj", "{1E4A1DF8-EF6F-43D0-ABAA-602CB80475C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_HashTables", "Colecciones_HashTables\Colecciones_HashTables.csproj", "{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1E4A1DF8-EF6F-43D0-ABAA-602CB80475C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E4A1DF8-EF6F-43D0-ABAA-602CB80475C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E4A1DF8-EF6F-43D0-ABAA-602CB80475C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
