@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-Queue myQ= new Queue();  // son tipo FIFO
+Queue myQ= new Queue();  //  son tipo FIFO
 
 //adicionamos objetos
 myQ.Enqueue("Manzana");
