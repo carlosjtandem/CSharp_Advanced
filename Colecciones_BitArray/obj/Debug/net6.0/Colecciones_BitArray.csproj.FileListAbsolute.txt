@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\bin\Debug\net6.0\Colecciones_BitArray.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\bin\Debug\net6.0\Colecciones_BitArray.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\bin\Debug\net6.0\Colecciones_BitArray.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\bin\Debug\net6.0\Colecciones_BitArray.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\bin\Debug\net6.0\Colecciones_BitArray.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\refint\Colecciones_BitArray.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\Colecciones_BitArray.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_BitArray\obj\Debug\net6.0\ref\Colecciones_BitArray.dll

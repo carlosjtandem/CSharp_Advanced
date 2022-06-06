@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\bin\Debug\net6.0\CSharpAvanzado.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\bin\Debug\net6.0\CSharpAvanzado.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\bin\Debug\net6.0\CSharpAvanzado.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\bin\Debug\net6.0\CSharpAvanzado.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\bin\Debug\net6.0\CSharpAvanzado.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\refint\CSharpAvanzado.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\CSharpAvanzado.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\CSharpAvanzado\obj\Debug\net6.0\ref\CSharpAvanzado.dll
