@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\bin\Debug\net6.0\Colecciones_Queue.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\bin\Debug\net6.0\Colecciones_Queue.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\bin\Debug\net6.0\Colecciones_Queue.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\bin\Debug\net6.0\Colecciones_Queue.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\bin\Debug\net6.0\Colecciones_Queue.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\refint\Colecciones_Queue.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\Colecciones_Queue.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_Queue\obj\Debug\net6.0\ref\Colecciones_Queue.dll

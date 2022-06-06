@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_BitArray", "Col
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_HashTables", "Colecciones_HashTables\Colecciones_HashTables.csproj", "{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_Queue", "Colecciones_Queue\Colecciones_Queue.csproj", "{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F344BFA-D0DF-4093-B9D8-7E16E7129B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
