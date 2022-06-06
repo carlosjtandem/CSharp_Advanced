@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_HashTables", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_Queue", "Colecciones_Queue\Colecciones_Queue.csproj", "{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones_SortedList", "Colecciones_SortedList\Colecciones_SortedList.csproj", "{FF6265E7-B6CF-4615-A993-FEEF1430AF4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F3F496-F3B5-4CDD-8C8F-C8B28DB05239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF6265E7-B6CF-4615-A993-FEEF1430AF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF6265E7-B6CF-4615-A993-FEEF1430AF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF6265E7-B6CF-4615-A993-FEEF1430AF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF6265E7-B6CF-4615-A993-FEEF1430AF4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\bin\Debug\net6.0\Colecciones_SortedList.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\bin\Debug\net6.0\Colecciones_SortedList.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\bin\Debug\net6.0\Colecciones_SortedList.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\bin\Debug\net6.0\Colecciones_SortedList.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\bin\Debug\net6.0\Colecciones_SortedList.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\refint\Colecciones_SortedList.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\Colecciones_SortedList.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Colecciones_SortedList\obj\Debug\net6.0\ref\Colecciones_SortedList.dll
