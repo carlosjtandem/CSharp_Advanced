@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericos02", "Genericos02\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.csproj", "{CF60CC50-B399-42A2-9A28-E89D647D8307}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosGenericos01", "MetodosGenericos01\MetodosGenericos01.csproj", "{67FC9572-8F66-46D6-B06D-4D7A6A18A4ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CF60CC50-B399-42A2-9A28-E89D647D8307}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF60CC50-B399-42A2-9A28-E89D647D8307}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF60CC50-B399-42A2-9A28-E89D647D8307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67FC9572-8F66-46D6-B06D-4D7A6A18A4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67FC9572-8F66-46D6-B06D-4D7A6A18A4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67FC9572-8F66-46D6-B06D-4D7A6A18A4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67FC9572-8F66-46D6-B06D-4D7A6A18A4ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
