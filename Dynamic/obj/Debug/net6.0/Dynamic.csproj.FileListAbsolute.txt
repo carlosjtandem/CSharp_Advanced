@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\bin\Debug\net6.0\Dynamic.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\bin\Debug\net6.0\Dynamic.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\bin\Debug\net6.0\Dynamic.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\bin\Debug\net6.0\Dynamic.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\bin\Debug\net6.0\Dynamic.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\refint\Dynamic.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\Dynamic.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Dynamic\obj\Debug\net6.0\ref\Dynamic.dll
