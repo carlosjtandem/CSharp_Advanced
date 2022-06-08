@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\bin\Debug\net6.0\ClasesGenericas01.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\bin\Debug\net6.0\ClasesGenericas01.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\bin\Debug\net6.0\ClasesGenericas01.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\bin\Debug\net6.0\ClasesGenericas01.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\bin\Debug\net6.0\ClasesGenericas01.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\refint\ClasesGenericas01.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ClasesGenericas01.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\ClasesGenericas01\obj\Debug\net6.0\ref\ClasesGenericas01.dll

@@ -1,4 +1,21 @@
-﻿class CPunto<T>
+﻿CPunto<int> puntoI = new CPunto<int>(3,4);
+
+CPunto<double> puntoD = new CPunto<double>(3.4, 4.22);
+
+CPunto<float> puntoF = new CPunto<float>(3.55f, 4.2f);
+
+Console.WriteLine(puntoI);
+Console.WriteLine(puntoD);
+Console.WriteLine(puntoF);
+
+//colocamos el valor de default
+puntoI.Reset();
+Console.WriteLine(puntoI);
+
+puntoI.encuentraTipo();
+puntoF.encuentraTipo();
+
+class CPunto<T>
 {
     //atributos tipo t
     private T x;
@@ -23,6 +40,15 @@
         //referencias null
         x = default(T);
         y = default(T);
+
+    }
+
+    public void encuentraTipo()
+    {
+        if (typeof(T) == typeof(int))
+            Console.WriteLine("Trabajo como entero");
+        else
+            Console.WriteLine("soy otro tipo");
 
     }
 }
