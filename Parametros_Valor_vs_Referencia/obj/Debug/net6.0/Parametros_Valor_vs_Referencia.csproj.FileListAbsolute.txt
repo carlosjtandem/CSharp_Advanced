@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\bin\Debug\net6.0\Parametros_Valor_vs_Referencia.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\bin\Debug\net6.0\Parametros_Valor_vs_Referencia.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\bin\Debug\net6.0\Parametros_Valor_vs_Referencia.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\bin\Debug\net6.0\Parametros_Valor_vs_Referencia.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\bin\Debug\net6.0\Parametros_Valor_vs_Referencia.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\refint\Parametros_Valor_vs_Referencia.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\Parametros_Valor_vs_Referencia.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Parametros_Valor_vs_Referencia\obj\Debug\net6.0\ref\Parametros_Valor_vs_Referencia.dll
