@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesGenericas01", "Clases
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parametros_Valor_vs_Referencia", "Parametros_Valor_vs_Referencia\Parametros_Valor_vs_Referencia.csproj", "{21D5D706-47EE-429D-AB46-077F3BD61469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegadoGenerico", "DelegadoGenerico\DelegadoGenerico.csproj", "{2C183C48-D660-426A-AAB3-398D2DBAD647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func_y_MetodosAnonimos", "Func_y_MetodosAnonimos\Func_y_MetodosAnonimos.csproj", "{FD8EB563-6D8D-4C11-8C5C-02D4F3B3B2F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{21D5D706-47EE-429D-AB46-077F3BD61469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D5D706-47EE-429D-AB46-077F3BD61469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D5D706-47EE-429D-AB46-077F3BD61469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C183C48-D660-426A-AAB3-398D2DBAD647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C183C48-D660-426A-AAB3-398D2DBAD647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C183C48-D660-426A-AAB3-398D2DBAD647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C183C48-D660-426A-AAB3-398D2DBAD647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD8EB563-6D8D-4C11-8C5C-02D4F3B3B2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8EB563-6D8D-4C11-8C5C-02D4F3B3B2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8EB563-6D8D-4C11-8C5C-02D4F3B3B2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8EB563-6D8D-4C11-8C5C-02D4F3B3B2F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

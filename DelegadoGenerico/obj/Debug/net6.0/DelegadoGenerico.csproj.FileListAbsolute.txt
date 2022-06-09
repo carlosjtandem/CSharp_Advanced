@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\bin\Debug\net6.0\DelegadoGenerico.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\bin\Debug\net6.0\DelegadoGenerico.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\bin\Debug\net6.0\DelegadoGenerico.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\bin\Debug\net6.0\DelegadoGenerico.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\bin\Debug\net6.0\DelegadoGenerico.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\refint\DelegadoGenerico.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\DelegadoGenerico.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\DelegadoGenerico\obj\Debug\net6.0\ref\DelegadoGenerico.dll

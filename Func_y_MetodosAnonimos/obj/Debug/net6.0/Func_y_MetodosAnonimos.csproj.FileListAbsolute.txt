@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\bin\Debug\net6.0\Func_y_MetodosAnonimos.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\bin\Debug\net6.0\Func_y_MetodosAnonimos.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\bin\Debug\net6.0\Func_y_MetodosAnonimos.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\bin\Debug\net6.0\Func_y_MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\bin\Debug\net6.0\Func_y_MetodosAnonimos.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\refint\Func_y_MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\Func_y_MetodosAnonimos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Func_y_MetodosAnonimos\obj\Debug\net6.0\ref\Func_y_MetodosAnonimos.dll
