@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\bin\Debug\net6.0\MetodosAnonimos.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\bin\Debug\net6.0\MetodosAnonimos.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\bin\Debug\net6.0\MetodosAnonimos.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\bin\Debug\net6.0\MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\bin\Debug\net6.0\MetodosAnonimos.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\refint\MetodosAnonimos.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\MetodosAnonimos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\MetodosAnonimos\obj\Debug\net6.0\ref\MetodosAnonimos.dll
