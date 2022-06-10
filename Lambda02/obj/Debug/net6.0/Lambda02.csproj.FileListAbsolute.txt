@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\bin\Debug\net6.0\Lambda02.exe
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\bin\Debug\net6.0\Lambda02.deps.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\bin\Debug\net6.0\Lambda02.runtimeconfig.json
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\bin\Debug\net6.0\Lambda02.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\bin\Debug\net6.0\Lambda02.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\refint\Lambda02.dll
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.pdb
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\Lambda02.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\learning\CSharpAvanzado\Lambda02\obj\Debug\net6.0\ref\Lambda02.dll
